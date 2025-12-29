@@ -1,0 +1,1 @@
+{application,alunoimport2,[{modules,['Elixir.Alunoimport','Elixir.MyParser']},{optional_applications,[]},{applications,[kernel,stdlib,elixir,logger,httpoison,jason,nimble_csv]},{description,"alunoimport2"},{registered,[]},{vsn,"0.1.0"}]}.

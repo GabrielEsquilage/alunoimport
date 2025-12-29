@@ -1,0 +1,3 @@
+ricardo.castro.oliveira.novo.4899@emailteste.com -> {"type":"about:blank","title":"Bad Request","status":400,"detail":"Já existe uma pessoa com o CPF informado.","instance":"/api-external/v1/aluno-pos/create-student","properties":null}
+roberto.campos.lopes.novo.5045@emailteste.com -> {"type":"about:blank","title":"Bad Request","status":400,"detail":"Foi encontrado um usuário no ERP com este email","instance":"/api-external/v1/aluno-pos/create-student","properties":null}
+julia.barros.costa.novo.10995@emailteste.com -> {"type":"about:blank","title":"Bad Request","status":400,"detail":"Foi encontrado um usuário no ERP com este email","instance":"/api-external/v1/aluno-pos/create-student","properties":null}

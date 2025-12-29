@@ -69,7 +69,7 @@ def executar(total=25000):
             p_nome = random.choice(nomes)
             s1, s2 = random.sample(sobrenomes, 2)
             nome_completo = f"{p_nome} {s1} {s2}"
-            email = f"{p_nome.lower()}.{s1.lower()}{i}@bitfami.com"
+            email = f"{p_nome.lower()}.{s1.lower()}.{s2.lower()}.novo.{i}@emailteste.com"
             telefone = f"({random.randint(11, 99)}) 9{random.randint(7000, 9999)}-{random.randint(1000, 9999)}"
             cep = f"{random.randint(10000, 99999)}-{random.randint(100, 999)}"
             nascimento = f"{random.randint(1975, 2005)}-{random.randint(1, 12):02d}-{random.randint(1, 28):02d}"
@@ -96,6 +96,6 @@ def executar(total=25000):
     print(f"Localização: {os.path.abspath(arquivo)}")
 
 if __name__ == "__main__":
-    executar(50000)
+    executar(25000)
 
 
