@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "416.195.475-11",
+    "email": "amanda.barros.ribeiro.novo.224@emailteste.com",
+    "endereco": {
+      "bairro": "Centro",
+      "cep": "23722-350",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Interlagos",
+      "numero": "965",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1975-08-26",
+    "nome": "Amanda Barros Ribeiro",
+    "racaId": 10,
+    "telefone": "(58) 98440-1756"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

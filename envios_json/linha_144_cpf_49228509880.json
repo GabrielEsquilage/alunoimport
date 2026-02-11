@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "492.285.098-80",
+    "email": "julia.cabrera.moura.novo.144@emailteste.com",
+    "endereco": {
+      "bairro": "Bom Fim",
+      "cep": "97352-985",
+      "cidadeId": 10677,
+      "logradouro": "Rua Teodoro Sampaio",
+      "numero": "611",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "2005-01-23",
+    "nome": "Julia Cabrera Moura",
+    "racaId": 10,
+    "telefone": "(97) 98898-4235"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

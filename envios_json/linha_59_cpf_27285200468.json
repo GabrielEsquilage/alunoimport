@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "272.852.004-68",
+    "email": "amanda.monteiro.freitas.novo.59@emailteste.com",
+    "endereco": {
+      "bairro": "Vila Olímpia",
+      "cep": "36620-202",
+      "cidadeId": 10677,
+      "logradouro": "Rua Sete de Setembro",
+      "numero": "712",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "2004-07-20",
+    "nome": "Amanda Monteiro Freitas",
+    "racaId": 10,
+    "telefone": "(86) 98570-8123"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

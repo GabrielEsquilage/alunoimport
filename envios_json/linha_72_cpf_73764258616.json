@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "737.642.586-16",
+    "email": "fernanda.mendes.oliveira.novo.72@emailteste.com",
+    "endereco": {
+      "bairro": "Casa Forte",
+      "cep": "32904-140",
+      "cidadeId": 10677,
+      "logradouro": "Rua Teodoro Sampaio",
+      "numero": "1862",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1991-05-23",
+    "nome": "Fernanda Mendes Oliveira",
+    "racaId": 10,
+    "telefone": "(74) 97582-3480"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "480.943.699-30",
+    "email": "carlos.costa.campos.novo.145@emailteste.com",
+    "endereco": {
+      "bairro": "Bigorrilho",
+      "cep": "55741-721",
+      "cidadeId": 10677,
+      "logradouro": "Rua Augusta",
+      "numero": "1173",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1980-05-01",
+    "nome": "Carlos Costa Campos",
+    "racaId": 10,
+    "telefone": "(89) 99717-7624"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

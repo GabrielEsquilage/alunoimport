@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "819.828.937-29",
+    "email": "larissa.alves.teixeira.novo.35@emailteste.com",
+    "endereco": {
+      "bairro": "Cocó",
+      "cep": "92807-487",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Sumaré",
+      "numero": "1945",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1998-02-25",
+    "nome": "Larissa Alves Teixeira",
+    "racaId": 10,
+    "telefone": "(67) 97679-2788"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

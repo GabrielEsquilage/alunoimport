@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "557.543.615-21",
+    "email": "patrícia.lopes.machado.novo.60@emailteste.com",
+    "endereco": {
+      "bairro": "Barra da Tijuca",
+      "cep": "87291-511",
+      "cidadeId": 10677,
+      "logradouro": "Rua Domingos de Morais",
+      "numero": "1017",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1979-10-06",
+    "nome": "Patrícia Lopes Machado",
+    "racaId": 10,
+    "telefone": "(80) 98408-6764"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

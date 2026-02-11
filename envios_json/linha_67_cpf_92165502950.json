@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "921.655.029-50",
+    "email": "ana.souza.santos.novo.67@emailteste.com",
+    "endereco": {
+      "bairro": "Leblon",
+      "cep": "36968-248",
+      "cidadeId": 10677,
+      "logradouro": "Rua da Consolação",
+      "numero": "1514",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1982-01-18",
+    "nome": "Ana Souza Santos",
+    "racaId": 10,
+    "telefone": "(90) 97487-5040"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

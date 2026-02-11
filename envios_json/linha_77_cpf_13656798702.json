@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "136.567.987-02",
+    "email": "marcon.campos.castro.novo.77@emailteste.com",
+    "endereco": {
+      "bairro": "Barra da Tijuca",
+      "cep": "14378-943",
+      "cidadeId": 10677,
+      "logradouro": "Rua da Consolação",
+      "numero": "1107",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "2001-04-21",
+    "nome": "Marcon Campos Castro",
+    "racaId": 10,
+    "telefone": "(19) 99387-4458"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

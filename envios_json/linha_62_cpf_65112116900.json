@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "651.121.169-00",
+    "email": "carlos.monteiro.nascimento.novo.62@emailteste.com",
+    "endereco": {
+      "bairro": "Savassi",
+      "cep": "36880-189",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Brigadeiro Faria Lima",
+      "numero": "1940",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1990-08-02",
+    "nome": "Carlos Monteiro Nascimento",
+    "racaId": 10,
+    "telefone": "(93) 97452-7295"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

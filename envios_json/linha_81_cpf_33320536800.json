@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "333.205.368-00",
+    "email": "leonardo.mendes.castro.novo.81@emailteste.com",
+    "endereco": {
+      "bairro": "Petrópolis",
+      "cep": "16720-429",
+      "cidadeId": 10677,
+      "logradouro": "Rua Domingos de Morais",
+      "numero": "1647",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "2001-02-03",
+    "nome": "Leonardo Mendes Castro",
+    "racaId": 10,
+    "telefone": "(42) 98107-3233"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

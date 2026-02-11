@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "979.284.199-71",
+    "email": "bruna.vieira.monteiro.novo.167@emailteste.com",
+    "endereco": {
+      "bairro": "Centro",
+      "cep": "59846-130",
+      "cidadeId": 10677,
+      "logradouro": "Rua Haddock Lobo",
+      "numero": "2261",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1979-04-01",
+    "nome": "Bruna Vieira Monteiro",
+    "racaId": 10,
+    "telefone": "(24) 99730-1676"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

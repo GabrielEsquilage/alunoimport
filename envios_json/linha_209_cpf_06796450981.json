@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "067.964.509-81",
+    "email": "marcon.castro.barros.novo.209@emailteste.com",
+    "endereco": {
+      "bairro": "Santa Felicidade",
+      "cep": "36368-783",
+      "cidadeId": 10677,
+      "logradouro": "Rua Teodoro Sampaio",
+      "numero": "1816",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "2002-04-28",
+    "nome": "Marcon Castro Barros",
+    "racaId": 10,
+    "telefone": "(71) 97731-4357"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

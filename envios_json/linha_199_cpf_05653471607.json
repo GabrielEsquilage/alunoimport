@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "056.534.716-07",
+    "email": "larissa.cabrera.gomes.novo.199@emailteste.com",
+    "endereco": {
+      "bairro": "Cidade Nova Jacareí",
+      "cep": "87251-184",
+      "cidadeId": 10677,
+      "logradouro": "Rua Vergueiro",
+      "numero": "1132",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1980-02-23",
+    "nome": "Larissa Cabrera Gomes",
+    "racaId": 10,
+    "telefone": "(36) 98663-1654"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

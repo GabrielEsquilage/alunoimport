@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "514.340.677-34",
+    "email": "guilherme.rocha.monteiro.novo.166@emailteste.com",
+    "endereco": {
+      "bairro": "Buritis",
+      "cep": "10694-732",
+      "cidadeId": 10677,
+      "logradouro": "Rua Vergueiro",
+      "numero": "2322",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1975-04-06",
+    "nome": "Guilherme Rocha Monteiro",
+    "racaId": 10,
+    "telefone": "(98) 98039-9202"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

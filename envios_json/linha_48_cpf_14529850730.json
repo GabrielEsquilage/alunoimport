@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "145.298.507-30",
+    "email": "camila.cavalcanti.carvalho.novo.48@emailteste.com",
+    "endereco": {
+      "bairro": "Lourdes",
+      "cep": "57999-744",
+      "cidadeId": 10677,
+      "logradouro": "Avenida São João",
+      "numero": "2078",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1983-07-20",
+    "nome": "Camila Cavalcanti Carvalho",
+    "racaId": 10,
+    "telefone": "(39) 98895-1470"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

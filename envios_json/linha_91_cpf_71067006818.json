@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "710.670.068-18",
+    "email": "ana.nascimento.rocha.novo.91@emailteste.com",
+    "endereco": {
+      "bairro": "Cocó",
+      "cep": "53767-905",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Paulista",
+      "numero": "785",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1982-04-17",
+    "nome": "Ana Nascimento Rocha",
+    "racaId": 10,
+    "telefone": "(62) 97561-1281"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

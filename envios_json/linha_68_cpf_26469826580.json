@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "264.698.265-80",
+    "email": "camila.alves.ribeiro.novo.68@emailteste.com",
+    "endereco": {
+      "bairro": "Cidade Baixa",
+      "cep": "93055-480",
+      "cidadeId": 10677,
+      "logradouro": "Alameda Santos",
+      "numero": "2187",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1976-10-19",
+    "nome": "Camila Alves Ribeiro",
+    "racaId": 10,
+    "telefone": "(81) 98066-1824"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

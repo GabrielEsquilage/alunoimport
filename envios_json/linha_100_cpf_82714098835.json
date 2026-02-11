@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "827.140.988-35",
+    "email": "felipe.gomes.souza.novo.100@emailteste.com",
+    "endereco": {
+      "bairro": "Meireles",
+      "cep": "35848-224",
+      "cidadeId": 10677,
+      "logradouro": "Rua XV de Novembro",
+      "numero": "2216",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1988-07-02",
+    "nome": "Felipe Gomes Souza",
+    "racaId": 10,
+    "telefone": "(14) 99616-9021"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

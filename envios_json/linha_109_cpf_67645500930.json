@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "676.455.009-30",
+    "email": "bruna.pinto.machado.novo.109@emailteste.com",
+    "endereco": {
+      "bairro": "Itaim Bibi",
+      "cep": "98477-269",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Santo Amaro",
+      "numero": "44",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1975-11-01",
+    "nome": "Bruna Pinto Machado",
+    "racaId": 10,
+    "telefone": "(48) 99853-7914"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

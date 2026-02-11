@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "134.184.391-28",
+    "email": "carolina.barbosa.barros.novo.111@emailteste.com",
+    "endereco": {
+      "bairro": "Boa Viagem",
+      "cep": "73498-800",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Rebouças",
+      "numero": "931",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1976-05-21",
+    "nome": "Carolina Barbosa Barros",
+    "racaId": 10,
+    "telefone": "(16) 97902-6485"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

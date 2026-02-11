@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "199.762.029-46",
+    "email": "amanda.castro.ribeiro.novo.34@emailteste.com",
+    "endereco": {
+      "bairro": "Itaim Bibi",
+      "cep": "22178-515",
+      "cidadeId": 10677,
+      "logradouro": "Rua XV de Novembro",
+      "numero": "2315",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1985-12-14",
+    "nome": "Amanda Castro Ribeiro",
+    "racaId": 10,
+    "telefone": "(30) 97191-2110"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

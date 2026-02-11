@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "304.130.770-71",
+    "email": "eduardo.pereira.nascimento.novo.58@emailteste.com",
+    "endereco": {
+      "bairro": "Boa Viagem",
+      "cep": "48136-819",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Santo Amaro",
+      "numero": "1696",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1980-01-14",
+    "nome": "Eduardo Pereira Nascimento",
+    "racaId": 10,
+    "telefone": "(77) 98695-3300"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "744.421.889-71",
+    "email": "renata.moreira.alves.novo.37@emailteste.com",
+    "endereco": {
+      "bairro": "Moema",
+      "cep": "62386-749",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Rebouças",
+      "numero": "1212",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1994-07-03",
+    "nome": "Renata Moreira Alves",
+    "racaId": 10,
+    "telefone": "(20) 98024-9164"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

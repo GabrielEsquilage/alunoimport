@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "375.029.105-57",
+    "email": "amanda.ferreira.teixeira.novo.73@emailteste.com",
+    "endereco": {
+      "bairro": "Cidade Baixa",
+      "cep": "21070-136",
+      "cidadeId": 10677,
+      "logradouro": "Alameda Lorena",
+      "numero": "1293",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1995-11-16",
+    "nome": "Amanda Ferreira Teixeira",
+    "racaId": 10,
+    "telefone": "(58) 98683-5859"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

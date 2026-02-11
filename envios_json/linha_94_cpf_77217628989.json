@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "772.176.289-89",
+    "email": "priscila.souza.cabrera.novo.94@emailteste.com",
+    "endereco": {
+      "bairro": "Praia de Iracema",
+      "cep": "49559-808",
+      "cidadeId": 10677,
+      "logradouro": "Rua Frei Caneca",
+      "numero": "2482",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1977-04-17",
+    "nome": "Priscila Souza Cabrera",
+    "racaId": 10,
+    "telefone": "(64) 98698-1845"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

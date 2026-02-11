@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "961.629.361-39",
+    "email": "guilherme.souza.ferreira.novo.75@emailteste.com",
+    "endereco": {
+      "bairro": "Cidade Nova Jacareí",
+      "cep": "17722-102",
+      "cidadeId": 10677,
+      "logradouro": "Rua Oscar Freire",
+      "numero": "1724",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "2003-09-25",
+    "nome": "Guilherme Souza Ferreira",
+    "racaId": 10,
+    "telefone": "(83) 97968-5632"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

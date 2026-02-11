@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "437.565.145-87",
+    "email": "amanda.martins.alves.novo.42@emailteste.com",
+    "endereco": {
+      "bairro": "Petrópolis",
+      "cep": "67437-477",
+      "cidadeId": 10677,
+      "logradouro": "Rua Voluntários da Pátria",
+      "numero": "6",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1979-07-15",
+    "nome": "Amanda Martins Alves",
+    "racaId": 10,
+    "telefone": "(38) 97686-8295"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "448.485.227-65",
+    "email": "camila.campos.lopes.novo.158@emailteste.com",
+    "endereco": {
+      "bairro": "Pampulha",
+      "cep": "96951-742",
+      "cidadeId": 10677,
+      "logradouro": "Rua Teodoro Sampaio",
+      "numero": "1460",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1993-11-05",
+    "nome": "Camila Campos Lopes",
+    "racaId": 10,
+    "telefone": "(26) 99052-4974"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

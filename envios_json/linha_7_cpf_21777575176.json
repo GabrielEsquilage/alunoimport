@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "217.775.751-76",
+    "email": "andré.barros.carvalho.novo.7@emailteste.com",
+    "endereco": {
+      "bairro": "Ipanema",
+      "cep": "26337-754",
+      "cidadeId": 10677,
+      "logradouro": "Rua Teodoro Sampaio",
+      "numero": "2341",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1998-01-19",
+    "nome": "André Barros Carvalho",
+    "racaId": 10,
+    "telefone": "(95) 98257-1328"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

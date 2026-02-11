@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "790.068.880-36",
+    "email": "carlos.ferreira.monteiro.novo.154@emailteste.com",
+    "endereco": {
+      "bairro": "Água Verde",
+      "cep": "35256-306",
+      "cidadeId": 10677,
+      "logradouro": "Rua Oscar Freire",
+      "numero": "288",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1997-12-18",
+    "nome": "Carlos Ferreira Monteiro",
+    "racaId": 10,
+    "telefone": "(92) 97050-5609"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

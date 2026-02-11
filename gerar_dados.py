@@ -3,10 +3,10 @@ import random
 import os
 
 nomes = [
-    "Marcon", "Ana", "Lucas", "Julia", "Roberto", "Patrícia", "Carlos", "Beatriz",
-    "Guilherme", "Letícia", "Ricardo", "Fernanda", "Gustavo", "Camila", "Felipe", "Amanda",
-    "Thiago", "Larissa", "Vinícius", "Bianca", "Leonardo", "Carolina", "Rodrigo", "Gabriela",
-    "Eduardo", "Vanessa", "Mateus", "Priscila", "André", "Renata", "Diego", "Bruna"
+    "Marcon", "Ana", "Lucas", "Julia", "Roberto", "Patricia", "Carlos", "Beatriz",
+    "Guilherme", "Leticia", "Ricardo", "Fernanda", "Gustavo", "Camila", "Felipe", "Amanda",
+    "Thiago", "Larissa", "Vinicius", "Bianca", "Leonardo", "Carolina", "Rodrigo", "Gabriela",
+    "Eduardo", "Vanessa", "Mateus", "Priscila", "Andre", "Renata", "Diego", "Bruna"
 ]
 sobrenomes = [
     "Cabrera", "Silva", "Oliveira", "Santos", "Souza", "Costa", "Pereira", "Ferreira",
@@ -51,7 +51,7 @@ def cpf_valido():
     c = "".join(map(str, nove_digitos))
     return f"{c[:3]}.{c[3:6]}.{c[6:9]}-{c[9:]}"
 
-def executar(total=25000):
+def executar(total=250000):
     arquivo = 'alunos.csv'
     cabecalho = [
         "nome", "email", "telefone", "cpf", "logradouro", 
@@ -96,6 +96,6 @@ def executar(total=25000):
     print(f"Localização: {os.path.abspath(arquivo)}")
 
 if __name__ == "__main__":
-    executar(25000)
+    executar()
 
 

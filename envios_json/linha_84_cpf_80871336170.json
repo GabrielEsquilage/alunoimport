@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "808.713.361-70",
+    "email": "guilherme.carvalho.alves.novo.84@emailteste.com",
+    "endereco": {
+      "bairro": "Buritis",
+      "cep": "99523-793",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Santo Amaro",
+      "numero": "2084",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1983-12-09",
+    "nome": "Guilherme Carvalho Alves",
+    "racaId": 10,
+    "telefone": "(91) 99271-3946"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

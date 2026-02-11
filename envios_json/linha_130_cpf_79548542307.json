@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "795.485.423-07",
+    "email": "fernanda.freitas.lopes.novo.130@emailteste.com",
+    "endereco": {
+      "bairro": "Meireles",
+      "cep": "54441-773",
+      "cidadeId": 10677,
+      "logradouro": "Avenida São João",
+      "numero": "2270",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "2004-06-13",
+    "nome": "Fernanda Freitas Lopes",
+    "racaId": 10,
+    "telefone": "(79) 97263-4475"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

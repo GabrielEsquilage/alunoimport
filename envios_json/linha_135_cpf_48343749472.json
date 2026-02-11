@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "483.437.494-72",
+    "email": "amanda.rocha.ribeiro.novo.135@emailteste.com",
+    "endereco": {
+      "bairro": "Cidade Baixa",
+      "cep": "57980-362",
+      "cidadeId": 10677,
+      "logradouro": "Rua Oscar Freire",
+      "numero": "1438",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1996-10-15",
+    "nome": "Amanda Rocha Ribeiro",
+    "racaId": 10,
+    "telefone": "(55) 98786-4716"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

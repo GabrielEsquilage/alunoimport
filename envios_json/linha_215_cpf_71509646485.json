@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "715.096.464-85",
+    "email": "thiago.barbosa.alves.novo.215@emailteste.com",
+    "endereco": {
+      "bairro": "Petrópolis",
+      "cep": "70837-528",
+      "cidadeId": 10677,
+      "logradouro": "Rua das Palmeiras",
+      "numero": "1489",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1993-07-16",
+    "nome": "Thiago Barbosa Alves",
+    "racaId": 10,
+    "telefone": "(14) 98259-9735"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

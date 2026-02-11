@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "495.889.260-50",
+    "email": "amanda.barros.vieira.novo.87@emailteste.com",
+    "endereco": {
+      "bairro": "Espunheiro",
+      "cep": "57413-591",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Rebouças",
+      "numero": "158",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1992-11-01",
+    "nome": "Amanda Barros Vieira",
+    "racaId": 10,
+    "telefone": "(46) 99977-2002"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

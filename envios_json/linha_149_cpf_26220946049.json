@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "262.209.460-49",
+    "email": "gabriela.oliveira.rocha.novo.149@emailteste.com",
+    "endereco": {
+      "bairro": "Santa Felicidade",
+      "cep": "92061-878",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Paulista",
+      "numero": "2437",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1981-10-04",
+    "nome": "Gabriela Oliveira Rocha",
+    "racaId": 10,
+    "telefone": "(38) 98906-7319"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

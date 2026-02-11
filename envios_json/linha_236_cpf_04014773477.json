@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "040.147.734-77",
+    "email": "amanda.cavalcanti.rocha.novo.236@emailteste.com",
+    "endereco": {
+      "bairro": "Bigorrilho",
+      "cep": "58344-549",
+      "cidadeId": 10677,
+      "logradouro": "Rua Frei Caneca",
+      "numero": "1753",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1991-09-06",
+    "nome": "Amanda Cavalcanti Rocha",
+    "racaId": 10,
+    "telefone": "(81) 98181-3872"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

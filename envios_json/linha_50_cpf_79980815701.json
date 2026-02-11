@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "799.808.157-01",
+    "email": "gabriela.pinto.monteiro.novo.50@emailteste.com",
+    "endereco": {
+      "bairro": "Centro",
+      "cep": "65373-895",
+      "cidadeId": 10677,
+      "logradouro": "Rua Bela Cintra",
+      "numero": "1442",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1996-01-11",
+    "nome": "Gabriela Pinto Monteiro",
+    "racaId": 10,
+    "telefone": "(16) 99143-4392"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

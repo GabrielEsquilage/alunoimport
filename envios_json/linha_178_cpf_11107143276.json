@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "111.071.432-76",
+    "email": "camila.machado.vieira.novo.178@emailteste.com",
+    "endereco": {
+      "bairro": "Cocó",
+      "cep": "28843-556",
+      "cidadeId": 10677,
+      "logradouro": "Rua dos Três Irmãos",
+      "numero": "173",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1977-02-26",
+    "nome": "Camila Machado Vieira",
+    "racaId": 10,
+    "telefone": "(25) 98944-8542"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

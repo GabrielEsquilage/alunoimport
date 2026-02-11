@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "148.395.647-44",
+    "email": "roberto.oliveira.campos.novo.36@emailteste.com",
+    "endereco": {
+      "bairro": "Cidade Baixa",
+      "cep": "42723-715",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Rebouças",
+      "numero": "1242",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1977-09-03",
+    "nome": "Roberto Oliveira Campos",
+    "racaId": 10,
+    "telefone": "(23) 97298-9264"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

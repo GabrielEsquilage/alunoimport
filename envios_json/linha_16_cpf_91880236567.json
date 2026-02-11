@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "918.802.365-67",
+    "email": "priscila.dias.cardoso.novo.16@emailteste.com",
+    "endereco": {
+      "bairro": "Água Verde",
+      "cep": "50870-171",
+      "cidadeId": 10677,
+      "logradouro": "Rua da Consolação",
+      "numero": "1692",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1988-06-22",
+    "nome": "Priscila Dias Cardoso",
+    "racaId": 10,
+    "telefone": "(64) 97301-9941"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

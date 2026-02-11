@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "994.612.180-87",
+    "email": "vinícius.silva.monteiro.novo.13@emailteste.com",
+    "endereco": {
+      "bairro": "Leblon",
+      "cep": "47361-102",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Rebouças",
+      "numero": "2281",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1986-09-27",
+    "nome": "Vinícius Silva Monteiro",
+    "racaId": 10,
+    "telefone": "(77) 98636-6062"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

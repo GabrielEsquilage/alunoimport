@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "139.152.938-30",
+    "email": "bruna.lopes.pereira.novo.102@emailteste.com",
+    "endereco": {
+      "bairro": "Santa Felicidade",
+      "cep": "34109-996",
+      "cidadeId": 10677,
+      "logradouro": "Rua Frei Caneca",
+      "numero": "1414",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1987-04-04",
+    "nome": "Bruna Lopes Pereira",
+    "racaId": 10,
+    "telefone": "(11) 97807-6956"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

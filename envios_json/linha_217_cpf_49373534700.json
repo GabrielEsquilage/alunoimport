@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "493.735.347-00",
+    "email": "marcon.martins.gomes.novo.217@emailteste.com",
+    "endereco": {
+      "bairro": "Petrópolis",
+      "cep": "29030-475",
+      "cidadeId": 10677,
+      "logradouro": "Rua Domingos de Morais",
+      "numero": "1546",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1987-11-01",
+    "nome": "Marcon Martins Gomes",
+    "racaId": 10,
+    "telefone": "(99) 97645-5874"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

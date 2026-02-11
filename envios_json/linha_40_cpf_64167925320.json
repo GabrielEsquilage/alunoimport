@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "641.679.253-20",
+    "email": "rodrigo.mendes.souza.novo.40@emailteste.com",
+    "endereco": {
+      "bairro": "Savassi",
+      "cep": "58657-964",
+      "cidadeId": 10677,
+      "logradouro": "Rua Gaspar Gomes da Costa",
+      "numero": "1772",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "2004-06-28",
+    "nome": "Rodrigo Mendes Souza",
+    "racaId": 10,
+    "telefone": "(45) 97283-8747"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

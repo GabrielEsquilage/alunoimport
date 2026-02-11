@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "870.566.693-79",
+    "email": "beatriz.castro.santos.novo.24@emailteste.com",
+    "endereco": {
+      "bairro": "Graças",
+      "cep": "14257-385",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Engenheiro Luís Carlos Berrini",
+      "numero": "1703",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1984-03-27",
+    "nome": "Beatriz Castro Santos",
+    "racaId": 10,
+    "telefone": "(68) 97957-8566"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

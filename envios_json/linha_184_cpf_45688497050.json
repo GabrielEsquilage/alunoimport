@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "456.884.970-50",
+    "email": "camila.gomes.dias.novo.184@emailteste.com",
+    "endereco": {
+      "bairro": "Itaim Bibi",
+      "cep": "36422-105",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Nove de Julho",
+      "numero": "166",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1999-09-24",
+    "nome": "Camila Gomes Dias",
+    "racaId": 10,
+    "telefone": "(15) 97483-6930"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "911.353.414-94",
+    "email": "thiago.mendes.barros.novo.51@emailteste.com",
+    "endereco": {
+      "bairro": "Pinheiros",
+      "cep": "93916-208",
+      "cidadeId": 10677,
+      "logradouro": "Rua das Palmeiras",
+      "numero": "605",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1982-09-21",
+    "nome": "Thiago Mendes Barros",
+    "racaId": 10,
+    "telefone": "(50) 99781-1043"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

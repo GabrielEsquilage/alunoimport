@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "998.136.759-18",
+    "email": "guilherme.cavalcanti.cabrera.novo.27@emailteste.com",
+    "endereco": {
+      "bairro": "Espunheiro",
+      "cep": "57480-257",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Ipiranga",
+      "numero": "477",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1989-01-19",
+    "nome": "Guilherme Cavalcanti Cabrera",
+    "racaId": 10,
+    "telefone": "(13) 97840-7332"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

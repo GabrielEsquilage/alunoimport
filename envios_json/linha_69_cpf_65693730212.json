@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "656.937.302-12",
+    "email": "eduardo.vieira.nascimento.novo.69@emailteste.com",
+    "endereco": {
+      "bairro": "Espunheiro",
+      "cep": "91389-691",
+      "cidadeId": 10677,
+      "logradouro": "Alameda Campinas",
+      "numero": "2191",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1990-04-04",
+    "nome": "Eduardo Vieira Nascimento",
+    "racaId": 10,
+    "telefone": "(95) 97341-8571"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

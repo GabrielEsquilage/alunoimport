@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "483.397.294-89",
+    "email": "eduardo.moreira.monteiro.novo.172@emailteste.com",
+    "endereco": {
+      "bairro": "Praia de Iracema",
+      "cep": "38379-430",
+      "cidadeId": 10677,
+      "logradouro": "Avenida São João",
+      "numero": "732",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "2000-02-01",
+    "nome": "Eduardo Moreira Monteiro",
+    "racaId": 10,
+    "telefone": "(34) 99257-6000"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

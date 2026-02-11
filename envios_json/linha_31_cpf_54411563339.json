@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "544.115.633-39",
+    "email": "renata.campos.dias.novo.31@emailteste.com",
+    "endereco": {
+      "bairro": "Cidade Baixa",
+      "cep": "90787-420",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Nove de Julho",
+      "numero": "2018",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1990-04-12",
+    "nome": "Renata Campos Dias",
+    "racaId": 10,
+    "telefone": "(74) 99198-9328"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

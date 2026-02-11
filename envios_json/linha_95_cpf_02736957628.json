@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "027.369.576-28",
+    "email": "gustavo.oliveira.cavalcanti.novo.95@emailteste.com",
+    "endereco": {
+      "bairro": "Cocó",
+      "cep": "14709-677",
+      "cidadeId": 10677,
+      "logradouro": "Rua da Consolação",
+      "numero": "1875",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1975-11-23",
+    "nome": "Gustavo Oliveira Cavalcanti",
+    "racaId": 10,
+    "telefone": "(36) 99006-8542"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "625.847.860-36",
+    "email": "vanessa.costa.campos.novo.121@emailteste.com",
+    "endereco": {
+      "bairro": "Moinhos de Vento",
+      "cep": "14813-256",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Ipiranga",
+      "numero": "2105",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "2005-07-06",
+    "nome": "Vanessa Costa Campos",
+    "racaId": 10,
+    "telefone": "(83) 99138-4691"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

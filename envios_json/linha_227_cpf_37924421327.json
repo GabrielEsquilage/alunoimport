@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "379.244.213-27",
+    "email": "beatriz.souza.dias.novo.227@emailteste.com",
+    "endereco": {
+      "bairro": "Lourdes",
+      "cep": "65069-217",
+      "cidadeId": 10677,
+      "logradouro": "Rua Gaspar Gomes da Costa",
+      "numero": "909",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1998-09-28",
+    "nome": "Beatriz Souza Dias",
+    "racaId": 10,
+    "telefone": "(36) 98779-1019"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

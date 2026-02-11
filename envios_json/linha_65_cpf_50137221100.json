@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "501.372.211-00",
+    "email": "bruna.barros.machado.novo.65@emailteste.com",
+    "endereco": {
+      "bairro": "Bigorrilho",
+      "cep": "63620-270",
+      "cidadeId": 10677,
+      "logradouro": "Rua Bela Cintra",
+      "numero": "675",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "2004-11-22",
+    "nome": "Bruna Barros Machado",
+    "racaId": 10,
+    "telefone": "(77) 97962-5182"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

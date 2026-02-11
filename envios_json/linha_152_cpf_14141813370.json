@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "141.418.133-70",
+    "email": "renata.barbosa.nascimento.novo.152@emailteste.com",
+    "endereco": {
+      "bairro": "Ipanema",
+      "cep": "87740-995",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Rebouças",
+      "numero": "660",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1992-05-15",
+    "nome": "Renata Barbosa Nascimento",
+    "racaId": 10,
+    "telefone": "(49) 99824-4864"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

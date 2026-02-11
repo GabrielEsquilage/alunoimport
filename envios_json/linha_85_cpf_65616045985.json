@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "656.160.459-85",
+    "email": "julia.cardoso.gomes.novo.85@emailteste.com",
+    "endereco": {
+      "bairro": "Pinheiros",
+      "cep": "40195-892",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Ipiranga",
+      "numero": "751",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1979-04-24",
+    "nome": "Julia Cardoso Gomes",
+    "racaId": 10,
+    "telefone": "(55) 99732-9945"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

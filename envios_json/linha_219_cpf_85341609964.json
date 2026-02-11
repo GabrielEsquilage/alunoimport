@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "853.416.099-64",
+    "email": "gustavo.monteiro.machado.novo.219@emailteste.com",
+    "endereco": {
+      "bairro": "Cidade Nova Jacareí",
+      "cep": "29587-504",
+      "cidadeId": 10677,
+      "logradouro": "Rua dos Três Irmãos",
+      "numero": "92",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1999-09-27",
+    "nome": "Gustavo Monteiro Machado",
+    "racaId": 10,
+    "telefone": "(51) 99173-3926"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "741.329.850-32",
+    "email": "carolina.ferreira.moura.novo.118@emailteste.com",
+    "endereco": {
+      "bairro": "Pinheiros",
+      "cep": "53660-326",
+      "cidadeId": 10677,
+      "logradouro": "Rua Teodoro Sampaio",
+      "numero": "1972",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1999-08-08",
+    "nome": "Carolina Ferreira Moura",
+    "racaId": 10,
+    "telefone": "(55) 97272-7798"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

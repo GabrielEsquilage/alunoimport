@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "461.183.222-87",
+    "email": "beatriz.dias.cardoso.novo.39@emailteste.com",
+    "endereco": {
+      "bairro": "Vila Olímpia",
+      "cep": "29233-208",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Paulista",
+      "numero": "529",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1982-06-03",
+    "nome": "Beatriz Dias Cardoso",
+    "racaId": 10,
+    "telefone": "(82) 99393-7548"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

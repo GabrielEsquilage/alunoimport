@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "386.056.265-77",
+    "email": "amanda.cardoso.ribeiro.novo.151@emailteste.com",
+    "endereco": {
+      "bairro": "Aldeota",
+      "cep": "99233-399",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Paulista",
+      "numero": "1378",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1993-08-19",
+    "nome": "Amanda Cardoso Ribeiro",
+    "racaId": 10,
+    "telefone": "(14) 98304-3909"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

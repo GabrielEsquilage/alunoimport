@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "478.210.913-08",
+    "email": "larissa.campos.barbosa.novo.101@emailteste.com",
+    "endereco": {
+      "bairro": "Água Verde",
+      "cep": "78073-831",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Santo Amaro",
+      "numero": "1315",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1986-09-01",
+    "nome": "Larissa Campos Barbosa",
+    "racaId": 10,
+    "telefone": "(61) 98622-6947"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

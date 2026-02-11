@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "772.261.503-10",
+    "email": "ana.dias.alves.novo.137@emailteste.com",
+    "endereco": {
+      "bairro": "Moema",
+      "cep": "22943-938",
+      "cidadeId": 10677,
+      "logradouro": "Alameda Santos",
+      "numero": "844",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "2001-09-19",
+    "nome": "Ana Dias Alves",
+    "racaId": 10,
+    "telefone": "(26) 98012-4538"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

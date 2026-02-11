@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "618.439.605-67",
+    "email": "carlos.souza.pereira.novo.110@emailteste.com",
+    "endereco": {
+      "bairro": "Cidade Baixa",
+      "cep": "45029-272",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Brasil",
+      "numero": "952",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "2000-04-11",
+    "nome": "Carlos Souza Pereira",
+    "racaId": 10,
+    "telefone": "(94) 99404-2518"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

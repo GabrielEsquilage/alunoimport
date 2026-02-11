@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "776.150.065-70",
+    "email": "renata.barbosa.cavalcanti.novo.66@emailteste.com",
+    "endereco": {
+      "bairro": "Bigorrilho",
+      "cep": "32879-109",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Paulista",
+      "numero": "1019",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "2004-07-21",
+    "nome": "Renata Barbosa Cavalcanti",
+    "racaId": 10,
+    "telefone": "(74) 98447-3803"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

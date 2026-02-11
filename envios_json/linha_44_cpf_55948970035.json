@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "559.489.700-35",
+    "email": "felipe.mendes.santos.novo.44@emailteste.com",
+    "endereco": {
+      "bairro": "Cidade Baixa",
+      "cep": "87608-997",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Engenheiro Luís Carlos Berrini",
+      "numero": "2454",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1999-12-14",
+    "nome": "Felipe Mendes Santos",
+    "racaId": 10,
+    "telefone": "(20) 99459-3162"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

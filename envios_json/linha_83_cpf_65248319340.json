@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "652.483.193-40",
+    "email": "bruna.santos.cardoso.novo.83@emailteste.com",
+    "endereco": {
+      "bairro": "Bigorrilho",
+      "cep": "31000-537",
+      "cidadeId": 10677,
+      "logradouro": "Rua da Consolação",
+      "numero": "1126",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1983-01-26",
+    "nome": "Bruna Santos Cardoso",
+    "racaId": 10,
+    "telefone": "(42) 98116-4829"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

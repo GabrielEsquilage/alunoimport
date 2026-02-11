@@ -4,7 +4,7 @@ defmodule Alunoimport do
   """
   NimbleCSV.define(MyParser, separator: ",", escape: "\"")
 
-  @endpoint "https://erp-api-dev-922117522963.us-central1.run.app/api-external/v1/aluno-pos/create-student"
+  @endpoint "https://erp-api-stage-52421872894.us-central1.run.app/api-external/v1/matricula/create-student"
   @log_dir "envios_json"
 
   def disparar do
@@ -19,7 +19,7 @@ defmodule Alunoimport do
       |> MyParser.parse_stream()
       |> Stream.with_index(1)
       |> Task.async_stream(fn {row, index} -> processar_linha(row, index) end,
-        max_concurrency: 25,
+        max_concurrency: 1,
         timeout: :infinity,
         ordered: false
       )
@@ -84,11 +84,11 @@ defmodule Alunoimport do
         "generoId" => String.to_integer(genero_id),
         "nascimento" => nascimento
       },
-      "concursoFilialId" => 14730,
-      "concursoCurriculoId" => 1076,
-      "concursoCurriculoPlanoPagamentoId" => 3220,
+      "concursoFilialId" => 2011,
+      "concursoCurriculoId" => 1664,
+      "concursoCurriculoPlanoPagamentoId" => 4992,
       "diaVencimento" => 10,
-      "formaPagamentoId" => 3,
+      "formaPagamentoId" => 1,
       "termoIds" => [3, 5]
     }
 

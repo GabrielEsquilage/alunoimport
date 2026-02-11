@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "702.444.176-36",
+    "email": "beatriz.pereira.nascimento.novo.134@emailteste.com",
+    "endereco": {
+      "bairro": "Barra da Tijuca",
+      "cep": "73498-250",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Rio Branco",
+      "numero": "87",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1990-07-04",
+    "nome": "Beatriz Pereira Nascimento",
+    "racaId": 10,
+    "telefone": "(43) 99577-2566"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

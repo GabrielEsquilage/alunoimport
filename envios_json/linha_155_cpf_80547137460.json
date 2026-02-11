@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "805.471.374-60",
+    "email": "gustavo.cardoso.castro.novo.155@emailteste.com",
+    "endereco": {
+      "bairro": "Brooklin",
+      "cep": "28676-625",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Nove de Julho",
+      "numero": "2467",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1986-07-03",
+    "nome": "Gustavo Cardoso Castro",
+    "racaId": 10,
+    "telefone": "(18) 97019-3396"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

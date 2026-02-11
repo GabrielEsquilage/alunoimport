@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "644.930.305-00",
+    "email": "priscila.freitas.souza.novo.54@emailteste.com",
+    "endereco": {
+      "bairro": "Bom Fim",
+      "cep": "20048-956",
+      "cidadeId": 10677,
+      "logradouro": "Rua Bela Cintra",
+      "numero": "934",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "2003-06-23",
+    "nome": "Priscila Freitas Souza",
+    "racaId": 10,
+    "telefone": "(57) 98747-2663"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "671.922.113-20",
+    "email": "patrícia.santos.gomes.novo.104@emailteste.com",
+    "endereco": {
+      "bairro": "Copacabana",
+      "cep": "24813-759",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Rio Branco",
+      "numero": "1655",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1976-11-19",
+    "nome": "Patrícia Santos Gomes",
+    "racaId": 10,
+    "telefone": "(75) 99918-7056"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

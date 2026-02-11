@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "428.634.054-62",
+    "email": "roberto.rocha.ribeiro.novo.107@emailteste.com",
+    "endereco": {
+      "bairro": "Pampulha",
+      "cep": "84219-536",
+      "cidadeId": 10677,
+      "logradouro": "Rua dos Três Irmãos",
+      "numero": "2255",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1983-04-09",
+    "nome": "Roberto Rocha Ribeiro",
+    "racaId": 10,
+    "telefone": "(50) 97674-5252"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

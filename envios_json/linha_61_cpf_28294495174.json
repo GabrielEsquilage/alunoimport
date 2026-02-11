@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "282.944.951-74",
+    "email": "leonardo.dias.cabrera.novo.61@emailteste.com",
+    "endereco": {
+      "bairro": "Bom Fim",
+      "cep": "30284-907",
+      "cidadeId": 10677,
+      "logradouro": "Rua dos Três Irmãos",
+      "numero": "2058",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1986-09-01",
+    "nome": "Leonardo Dias Cabrera",
+    "racaId": 10,
+    "telefone": "(73) 97574-9921"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

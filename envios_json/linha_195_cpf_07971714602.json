@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "079.717.146-02",
+    "email": "fernanda.moreira.teixeira.novo.195@emailteste.com",
+    "endereco": {
+      "bairro": "Ipanema",
+      "cep": "43663-590",
+      "cidadeId": 10677,
+      "logradouro": "Rua Haddock Lobo",
+      "numero": "549",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "2000-08-18",
+    "nome": "Fernanda Moreira Teixeira",
+    "racaId": 10,
+    "telefone": "(47) 98419-4089"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

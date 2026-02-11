@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "790.329.251-05",
+    "email": "amanda.barros.teixeira.novo.146@emailteste.com",
+    "endereco": {
+      "bairro": "Lourdes",
+      "cep": "45463-399",
+      "cidadeId": 10677,
+      "logradouro": "Rua XV de Novembro",
+      "numero": "2317",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1998-08-02",
+    "nome": "Amanda Barros Teixeira",
+    "racaId": 10,
+    "telefone": "(89) 99675-6993"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

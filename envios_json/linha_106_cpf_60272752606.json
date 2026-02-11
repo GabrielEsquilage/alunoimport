@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "602.727.526-06",
+    "email": "eduardo.cavalcanti.gomes.novo.106@emailteste.com",
+    "endereco": {
+      "bairro": "Cocó",
+      "cep": "16650-338",
+      "cidadeId": 10677,
+      "logradouro": "Rua Voluntários da Pátria",
+      "numero": "757",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1980-07-19",
+    "nome": "Eduardo Cavalcanti Gomes",
+    "racaId": 10,
+    "telefone": "(87) 98509-2514"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

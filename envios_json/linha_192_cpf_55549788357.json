@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "555.497.883-57",
+    "email": "patrícia.castro.freitas.novo.192@emailteste.com",
+    "endereco": {
+      "bairro": "Cidade Nova Jacareí",
+      "cep": "70529-896",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Nove de Julho",
+      "numero": "1687",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1977-08-04",
+    "nome": "Patrícia Castro Freitas",
+    "racaId": 10,
+    "telefone": "(63) 99445-6418"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

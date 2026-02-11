@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "550.093.971-88",
+    "email": "diego.martins.ribeiro.novo.124@emailteste.com",
+    "endereco": {
+      "bairro": "Pinheiros",
+      "cep": "68676-678",
+      "cidadeId": 10677,
+      "logradouro": "Rua da Consolação",
+      "numero": "1139",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "2003-04-20",
+    "nome": "Diego Martins Ribeiro",
+    "racaId": 10,
+    "telefone": "(58) 99186-1432"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

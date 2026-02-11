@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "178.990.252-57",
+    "email": "bruna.machado.carvalho.novo.79@emailteste.com",
+    "endereco": {
+      "bairro": "Brooklin",
+      "cep": "29085-617",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Paulista",
+      "numero": "2499",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1985-02-17",
+    "nome": "Bruna Machado Carvalho",
+    "racaId": 10,
+    "telefone": "(92) 98723-9893"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "908.709.953-32",
+    "email": "bruna.cabrera.martins.novo.190@emailteste.com",
+    "endereco": {
+      "bairro": "Moinhos de Vento",
+      "cep": "73154-373",
+      "cidadeId": 10677,
+      "logradouro": "Rua Gaspar Gomes da Costa",
+      "numero": "337",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1986-12-09",
+    "nome": "Bruna Cabrera Martins",
+    "racaId": 10,
+    "telefone": "(84) 98248-4773"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

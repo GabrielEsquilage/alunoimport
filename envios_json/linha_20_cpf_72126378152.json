@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "721.263.781-52",
+    "email": "ricardo.cardoso.ribeiro.novo.20@emailteste.com",
+    "endereco": {
+      "bairro": "Barra da Tijuca",
+      "cep": "35866-519",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Paulista",
+      "numero": "1571",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1997-08-26",
+    "nome": "Ricardo Cardoso Ribeiro",
+    "racaId": 10,
+    "telefone": "(70) 99819-4853"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

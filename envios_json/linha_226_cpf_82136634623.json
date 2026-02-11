@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "821.366.346-23",
+    "email": "ricardo.martins.costa.novo.226@emailteste.com",
+    "endereco": {
+      "bairro": "Lourdes",
+      "cep": "61500-177",
+      "cidadeId": 10677,
+      "logradouro": "Alameda Campinas",
+      "numero": "328",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1991-11-26",
+    "nome": "Ricardo Martins Costa",
+    "racaId": 10,
+    "telefone": "(84) 98393-6623"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

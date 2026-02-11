@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "443.918.472-30",
+    "email": "amanda.moura.machado.novo.211@emailteste.com",
+    "endereco": {
+      "bairro": "Lourdes",
+      "cep": "91387-501",
+      "cidadeId": 10677,
+      "logradouro": "Rua Sete de Setembro",
+      "numero": "1647",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1976-06-16",
+    "nome": "Amanda Moura Machado",
+    "racaId": 10,
+    "telefone": "(97) 98218-7503"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

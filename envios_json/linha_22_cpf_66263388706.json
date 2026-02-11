@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "662.633.887-06",
+    "email": "priscila.carvalho.nascimento.novo.22@emailteste.com",
+    "endereco": {
+      "bairro": "Moinhos de Vento",
+      "cep": "91053-818",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Rebouças",
+      "numero": "782",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1996-09-16",
+    "nome": "Priscila Carvalho Nascimento",
+    "racaId": 10,
+    "telefone": "(92) 97041-6211"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

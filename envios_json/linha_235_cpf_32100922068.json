@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "321.009.220-68",
+    "email": "larissa.vieira.monteiro.novo.235@emailteste.com",
+    "endereco": {
+      "bairro": "Savassi",
+      "cep": "85947-630",
+      "cidadeId": 10677,
+      "logradouro": "Alameda Campinas",
+      "numero": "1617",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1987-02-23",
+    "nome": "Larissa Vieira Monteiro",
+    "racaId": 10,
+    "telefone": "(88) 99200-8824"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

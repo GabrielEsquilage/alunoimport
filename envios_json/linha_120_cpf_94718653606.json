@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "947.186.536-06",
+    "email": "beatriz.costa.barbosa.novo.120@emailteste.com",
+    "endereco": {
+      "bairro": "Espunheiro",
+      "cep": "68643-428",
+      "cidadeId": 10677,
+      "logradouro": "Rua Haddock Lobo",
+      "numero": "1515",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1993-04-09",
+    "nome": "Beatriz Costa Barbosa",
+    "racaId": 10,
+    "telefone": "(50) 97937-8920"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

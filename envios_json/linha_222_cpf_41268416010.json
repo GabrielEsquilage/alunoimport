@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "412.684.160-10",
+    "email": "larissa.cardoso.campos.novo.222@emailteste.com",
+    "endereco": {
+      "bairro": "Lourdes",
+      "cep": "61262-653",
+      "cidadeId": 10677,
+      "logradouro": "Rua Bela Cintra",
+      "numero": "873",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1978-04-08",
+    "nome": "Larissa Cardoso Campos",
+    "racaId": 10,
+    "telefone": "(40) 97246-5342"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

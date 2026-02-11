@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "947.525.143-03",
+    "email": "gabriela.cabrera.cavalcanti.novo.188@emailteste.com",
+    "endereco": {
+      "bairro": "Lourdes",
+      "cep": "50889-480",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Paulista",
+      "numero": "2039",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1983-01-17",
+    "nome": "Gabriela Cabrera Cavalcanti",
+    "racaId": 10,
+    "telefone": "(84) 99961-3466"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

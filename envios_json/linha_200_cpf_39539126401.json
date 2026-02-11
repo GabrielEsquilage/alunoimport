@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "395.391.264-01",
+    "email": "letícia.oliveira.dias.novo.200@emailteste.com",
+    "endereco": {
+      "bairro": "Cidade Nova Jacareí",
+      "cep": "73502-420",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Sumaré",
+      "numero": "1422",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "2003-09-17",
+    "nome": "Letícia Oliveira Dias",
+    "racaId": 10,
+    "telefone": "(59) 98428-2246"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

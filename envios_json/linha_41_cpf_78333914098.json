@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "783.339.140-98",
+    "email": "andré.pinto.teixeira.novo.41@emailteste.com",
+    "endereco": {
+      "bairro": "Água Verde",
+      "cep": "63520-552",
+      "cidadeId": 10677,
+      "logradouro": "Rua Augusta",
+      "numero": "1641",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1976-03-13",
+    "nome": "André Pinto Teixeira",
+    "racaId": 10,
+    "telefone": "(46) 99971-1420"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

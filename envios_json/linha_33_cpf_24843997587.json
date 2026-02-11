@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "248.439.975-87",
+    "email": "diego.vieira.pinto.novo.33@emailteste.com",
+    "endereco": {
+      "bairro": "Ipanema",
+      "cep": "43176-468",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Interlagos",
+      "numero": "889",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1980-05-12",
+    "nome": "Diego Vieira Pinto",
+    "racaId": 10,
+    "telefone": "(80) 97802-9446"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

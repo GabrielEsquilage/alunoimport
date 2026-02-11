@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "922.654.955-90",
+    "email": "rodrigo.pinto.oliveira.novo.191@emailteste.com",
+    "endereco": {
+      "bairro": "Cidade Baixa",
+      "cep": "55911-978",
+      "cidadeId": 10677,
+      "logradouro": "Rua das Palmeiras",
+      "numero": "26",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "2003-07-06",
+    "nome": "Rodrigo Pinto Oliveira",
+    "racaId": 10,
+    "telefone": "(74) 98579-6321"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

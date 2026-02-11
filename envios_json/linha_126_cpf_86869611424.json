@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "868.696.114-24",
+    "email": "gabriela.moreira.cabrera.novo.126@emailteste.com",
+    "endereco": {
+      "bairro": "Praia de Iracema",
+      "cep": "99060-446",
+      "cidadeId": 10677,
+      "logradouro": "Rua Sete de Setembro",
+      "numero": "5",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1998-09-23",
+    "nome": "Gabriela Moreira Cabrera",
+    "racaId": 10,
+    "telefone": "(30) 98167-8014"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

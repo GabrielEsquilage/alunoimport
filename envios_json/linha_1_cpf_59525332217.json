@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "595.253.322-17",
+    "email": "camila.pereira.ribeiro.novo.1@emailteste.com",
+    "endereco": {
+      "bairro": "Buritis",
+      "cep": "31305-243",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Santo Amaro",
+      "numero": "1422",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1982-08-23",
+    "nome": "Camila Pereira Ribeiro",
+    "racaId": 10,
+    "telefone": "(33) 99386-9888"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

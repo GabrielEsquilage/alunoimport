@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "714.210.098-20",
+    "email": "diego.pinto.cardoso.novo.8@emailteste.com",
+    "endereco": {
+      "bairro": "Moema",
+      "cep": "86931-241",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Brigadeiro Faria Lima",
+      "numero": "617",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1987-01-19",
+    "nome": "Diego Pinto Cardoso",
+    "racaId": 10,
+    "telefone": "(18) 97360-1369"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

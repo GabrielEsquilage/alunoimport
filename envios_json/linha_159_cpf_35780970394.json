@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "357.809.703-94",
+    "email": "felipe.machado.campos.novo.159@emailteste.com",
+    "endereco": {
+      "bairro": "Barra da Tijuca",
+      "cep": "66063-163",
+      "cidadeId": 10677,
+      "logradouro": "Rua XV de Novembro",
+      "numero": "311",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "2005-12-18",
+    "nome": "Felipe Machado Campos",
+    "racaId": 10,
+    "telefone": "(48) 99094-7075"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "697.117.414-31",
+    "email": "roberto.castro.cabrera.novo.181@emailteste.com",
+    "endereco": {
+      "bairro": "Centro",
+      "cep": "62834-704",
+      "cidadeId": 10677,
+      "logradouro": "Rua Cardeal Arcoverde",
+      "numero": "992",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1984-08-25",
+    "nome": "Roberto Castro Cabrera",
+    "racaId": 10,
+    "telefone": "(27) 98111-5265"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

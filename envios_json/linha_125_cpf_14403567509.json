@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "144.035.675-09",
+    "email": "vanessa.monteiro.ribeiro.novo.125@emailteste.com",
+    "endereco": {
+      "bairro": "Pampulha",
+      "cep": "53469-217",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Brigadeiro Faria Lima",
+      "numero": "1378",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1988-12-06",
+    "nome": "Vanessa Monteiro Ribeiro",
+    "racaId": 10,
+    "telefone": "(89) 98608-9586"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

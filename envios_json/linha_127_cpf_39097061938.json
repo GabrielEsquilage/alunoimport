@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "390.970.619-38",
+    "email": "andré.nascimento.alves.novo.127@emailteste.com",
+    "endereco": {
+      "bairro": "Pinheiros",
+      "cep": "17981-430",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Engenheiro Luís Carlos Berrini",
+      "numero": "2109",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "2004-01-21",
+    "nome": "André Nascimento Alves",
+    "racaId": 10,
+    "telefone": "(53) 98674-5164"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

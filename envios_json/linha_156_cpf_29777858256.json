@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "297.778.582-56",
+    "email": "diego.ribeiro.freitas.novo.156@emailteste.com",
+    "endereco": {
+      "bairro": "Itaim Bibi",
+      "cep": "93992-395",
+      "cidadeId": 10677,
+      "logradouro": "Rua Frei Caneca",
+      "numero": "516",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1998-10-26",
+    "nome": "Diego Ribeiro Freitas",
+    "racaId": 10,
+    "telefone": "(21) 97949-1966"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

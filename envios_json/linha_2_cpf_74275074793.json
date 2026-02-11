@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "742.750.747-93",
+    "email": "camila.monteiro.carvalho.novo.2@emailteste.com",
+    "endereco": {
+      "bairro": "Leblon",
+      "cep": "32522-749",
+      "cidadeId": 10677,
+      "logradouro": "Rua Frei Caneca",
+      "numero": "1244",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1988-01-17",
+    "nome": "Camila Monteiro Carvalho",
+    "racaId": 10,
+    "telefone": "(14) 97963-8263"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

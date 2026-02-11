@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "729.015.791-59",
+    "email": "camila.cavalcanti.costa.novo.80@emailteste.com",
+    "endereco": {
+      "bairro": "Centro",
+      "cep": "86653-185",
+      "cidadeId": 10677,
+      "logradouro": "Rua Bela Cintra",
+      "numero": "745",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1994-01-21",
+    "nome": "Camila Cavalcanti Costa",
+    "racaId": 10,
+    "telefone": "(60) 98115-6889"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

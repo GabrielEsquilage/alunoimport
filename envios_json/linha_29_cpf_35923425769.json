@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "359.234.257-69",
+    "email": "gustavo.cardoso.mendes.novo.29@emailteste.com",
+    "endereco": {
+      "bairro": "Bigorrilho",
+      "cep": "51564-944",
+      "cidadeId": 10677,
+      "logradouro": "Avenida Interlagos",
+      "numero": "177",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1992-06-07",
+    "nome": "Gustavo Cardoso Mendes",
+    "racaId": 10,
+    "telefone": "(21) 98810-8708"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}

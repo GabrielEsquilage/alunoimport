@@ -1,0 +1,28 @@
+{
+  "concursoCurriculoId": 1664,
+  "concursoCurriculoPlanoPagamentoId": 4992,
+  "concursoFilialId": 2011,
+  "diaVencimento": 10,
+  "formaPagamentoId": 1,
+  "pessoa": {
+    "cpf": "785.379.598-04",
+    "email": "vinícius.ribeiro.oliveira.novo.193@emailteste.com",
+    "endereco": {
+      "bairro": "Lourdes",
+      "cep": "66977-799",
+      "cidadeId": 10677,
+      "logradouro": "Rua Frei Caneca",
+      "numero": "350",
+      "ufId": 26
+    },
+    "generoId": 3,
+    "nascimento": "1975-04-19",
+    "nome": "Vinícius Ribeiro Oliveira",
+    "racaId": 10,
+    "telefone": "(49) 97647-5712"
+  },
+  "termoIds": [
+    3,
+    5
+  ]
+}
