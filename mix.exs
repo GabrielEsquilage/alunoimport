@@ -3,7 +3,7 @@ defmodule Alunoimport.MixProject do
 
   def project do
     [
-      app: :alunoimport2,
+      app: :alunoimport,
       version: "0.1.0",
       elixir: "~> 1.19",
       start_permanent: Mix.env() == :prod,
@@ -11,9 +11,9 @@ defmodule Alunoimport.MixProject do
     ]
   end
 
-  # Run "mix help compile.app" to learn about applications.
   def application do
     [
+      mod: {Alunoimport.Application, []},
       extra_applications: [:logger]
     ]
   end
