@@ -77,7 +77,7 @@ defmodule Alunoimport.Processor do
       |> MyParser.parse_stream()
       |> Stream.with_index(1)
       |> Stream.filter(fn {_, index} -> index >= start_line end)
-      |> Task.async_stream(&Processor.processar_linha(&1, &2, processor_pid),
+      |> Task.async_stream(&Processor.processar_linha(&1, processor_pid),
         max_concurrency: 1,
         timeout: :infinity,
         ordered: false
@@ -154,9 +154,9 @@ defmodule Alunoimport.Processor do
         "generoId" => String.to_integer(genero_id),
         "nascimento" => nascimento
       },
-      "concursoFilialId" => 2011,
-      "concursoCurriculoId" => 1664,
-      "concursoCurriculoPlanoPagamentoId" => 4992,
+      "concursoFilialId" => 30254,
+      "concursoCurriculoId" => 1769,
+      "concursoCurriculoPlanoPagamentoId" => 5308,
       "diaVencimento" => 10,
       "formaPagamentoId" => 1,
       "termoIds" => [3, 5]

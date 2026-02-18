@@ -1,1 +1,0 @@
-camila.cavalcanti.carvalho.novo.48@emailteste.com -> {"type":"about:blank","title":"Bad Request","status":400,"detail":"Já existe um candidato ativo com a pessoa [ 4275801 ] e concurso currículo [ 1664 ].","instance":"/api-external/v1/matricula/create-student","properties":null}

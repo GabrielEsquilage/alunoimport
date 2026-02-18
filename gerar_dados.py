@@ -3,16 +3,16 @@ import random
 import os
 
 nomes = [
-    "Marcon", "Ana", "Lucas", "Julia", "Roberto", "Patricia", "Carlos", "Beatriz",
-    "Guilherme", "Leticia", "Ricardo", "Fernanda", "Gustavo", "Camila", "Felipe", "Amanda",
-    "Thiago", "Larissa", "Vinicius", "Bianca", "Leonardo", "Carolina", "Rodrigo", "Gabriela",
-    "Eduardo", "Vanessa", "Mateus", "Priscila", "Andre", "Renata", "Diego", "Bruna"
+    "Gabriel", "Mariana", "Rafael", "Manuela", "Enzo", "Isabela", "Davi", "Laura",
+    "Arthur", "Sophia", "Pedro", "Alice", "Heitor", "Valentina", "Bernardo", "Helena",
+    "Miguel", "Luiza", "Lorenzo", "Yasmin", "Theo", "Cecília", "Nicolas", "Eloa",
+    "Joaquim", "Livia", "Samuel", "Maria", "Benjamin", "Agatha", "Matheus", "Julia"
 ]
 sobrenomes = [
-    "Cabrera", "Silva", "Oliveira", "Santos", "Souza", "Costa", "Pereira", "Ferreira",
-    "Alves", "Monteiro", "Mendes", "Barros", "Freitas", "Barbosa", "Pinto", "Moura",
-    "Cavalcanti", "Dias", "Castro", "Campos", "Cardoso", "Teixeira", "Ribeiro", "Vieira",
-    "Rocha", "Nascimento", "Moreira", "Gomes", "Carvalho", "Lopes", "Martins", "Machado"
+    "Rodrigues", "Gomes", "Martins", "Araújo", "Melo", "Barbosa", "Nunes", "Lima",
+    "Ribeiro", "Cardoso", "Carvalho", "Dias", "Rocha", "Pires", "Reis", "Campos",
+    "Freitas", "Marques", "Correia", "Dantas", "Teixeira", "Viana", "Cavalcante", "Nogueira",
+    "Queiroz", "Rezende", "Siqueira", "Batista", "Pacheco", "Tavares", "Brandao", "Andrade"
 ]
 logradouros = [
     "Rua Gaspar Gomes da Costa", "Avenida Brasil", "Rua das Palmeiras", "Alameda Santos",
