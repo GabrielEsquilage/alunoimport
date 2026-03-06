@@ -129,8 +129,8 @@ defmodule Alunoimport.Processor do
       cep,
       bairro,
       numero,
-      cidade_id,
-      uf_id,
+      cidade,
+      uf,
       raca_id,
       genero_id,
       nascimento
@@ -147,16 +147,16 @@ defmodule Alunoimport.Processor do
           "cep" => cep,
           "bairro" => bairro,
           "numero" => numero,
-          "cidadeId" => String.to_integer(cidade_id),
-          "ufId" => String.to_integer(uf_id)
+          "cidade" => cidade,
+          "uf" => uf
         },
         "racaId" => String.to_integer(raca_id),
         "generoId" => String.to_integer(genero_id),
         "nascimento" => nascimento
       },
-      "concursoFilialId" => 30254,
-      "concursoCurriculoId" => 1769,
-      "concursoCurriculoPlanoPagamentoId" => 5308,
+      "concursoFilialId" => 25638,
+      "concursoCurriculoId" => 2176,
+      "concursoCurriculoPlanoPagamentoId" => 6548,
       "diaVencimento" => 10,
       "formaPagamentoId" => 1,
       "termoIds" => [3, 5]
