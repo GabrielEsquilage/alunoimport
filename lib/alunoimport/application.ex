@@ -6,6 +6,7 @@ defmodule Alunoimport.Application do
   @impl true
   def start(_type, _args) do
     children = [
+      Alunoimport.Repo,
       Alunoimport.Processor,
       Alunoimport.LoggerObserver
     ]

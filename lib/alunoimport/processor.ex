@@ -1,5 +1,6 @@
 defmodule Alunoimport.Processor do
   use GenServer
+  require Logger
 
   alias Alunoimport.Processor
 
@@ -15,6 +16,10 @@ defmodule Alunoimport.Processor do
 
   def start_import(start_line \\ 1) do
     GenServer.cast(__MODULE__, {:start_import, start_line})
+  end
+
+  def processar_alunos_pagos do
+    GenServer.cast(__MODULE__, :processar_alunos_pagos)
   end
 
   def get_status do
@@ -89,6 +94,21 @@ defmodule Alunoimport.Processor do
 
     {:noreply, new_state}
   end
+
+  @impl true
+  def handle_cast(:processar_alunos_pagos, state) do
+    Logger.info("Iniciando o processo de marcar alunos como pagos.")
+
+    # TODO:
+    # 1. Conectar ao banco de dados
+    # 2. Executar o UPDATE
+    # 3. Executar o SELECT
+    # 4. Enviar os dados para a API
+
+    Logger.info("Processo de marcar alunos como pagos concluído.")
+    {:noreply, state}
+  end
+
 
   @impl true
   def handle_cast({:tally, status, email, index}, state) do
