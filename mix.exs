@@ -30,7 +30,10 @@ defmodule Alunoimport.MixProject do
       # Ecto para banco de dados
       {:ecto_sql, "~> 3.10"},
       # Driver do postgrex
-      {:postgrex, "~> 0.17.5"}
+      {:postgrex, "~> 0.17.5"},
+      # Carrega variáveis de ambiente do .env
+      {:dotenv, "~> 3.0"},
+      {:dotenvy, "~> 0.8.0"}
     ]
   end
 end
