@@ -14,7 +14,7 @@ defmodule Alunoimport.MixProject do
   def application do
     [
       mod: {Alunoimport.Application, []},
-      extra_applications: [:logger]
+      extra_applications: [:logger, :ecto, :postgrex]
     ]
   end
 
@@ -26,7 +26,14 @@ defmodule Alunoimport.MixProject do
       # Parser JSON extremamente rápido
       {:jason, "~> 1.4"},
       # Parser CSV de alta performance (o melhor para Elixir)
-      {:nimble_csv, "~> 1.2"}
+      {:nimble_csv, "~> 1.2"},
+      # Ecto para banco de dados
+      {:ecto_sql, "~> 3.10"},
+      # Driver do postgrex
+      {:postgrex, "~> 0.17.5"},
+      # Carrega variáveis de ambiente do .env
+      {:dotenv, "~> 3.0"},
+      {:dotenvy, "~> 0.8.0"}
     ]
   end
 end
